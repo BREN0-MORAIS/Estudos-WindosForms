@@ -1,0 +1,14 @@
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\bin\Debug\Banco\Cadastrar.sdf
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\bin\Debug\Secao_02.exe.config
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\bin\Debug\Secao_02.exe
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\bin\Debug\Secao_02.pdb
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\obj\Debug\Secao_02.csprojAssemblyReference.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\obj\Debug\Secao_02.Properties.Resources.resources
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\obj\Debug\Secao_02.TelaPrincipal.resources
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\obj\Debug\Secao_02.csproj.GenerateResource.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\obj\Debug\Secao_02.csproj.CoreCompileInputs.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\obj\Debug\Secao_02.exe
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\obj\Debug\Secao_02.pdb
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\obj\Debug\Secao_02.View.TelaCadastro.resources
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Secao_02\obj\Debug\Secao_02.csproj.CopyComplete

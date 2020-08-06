@@ -1,0 +1,14 @@
+﻿-- Script Date: 28/07/2020 20:20  - ErikEJ.SqlCeScripting version 3.5.2.86
+CREATE TABLE [Funcionario] (
+  [Id] int IDENTITY (1,1) NOT NULL
+, [Nome] nvarchar(100) NOT NULL
+, [Email] nchar(100) NOT NULL
+, [Salario] money NOT NULL
+, [Sexo] nchar(100) NOT NULL
+, [TipoContrato] nchar(100) NOT NULL
+, [DataCadastro] datetime NOT NULL
+, [DataAtualizacao] datetime NULL
+);
+GO
+ALTER TABLE [Funcionario] ADD CONSTRAINT [PK_Funcionario] PRIMARY KEY ([Id]);
+GO

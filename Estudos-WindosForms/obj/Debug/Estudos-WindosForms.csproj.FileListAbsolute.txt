@@ -1,0 +1,10 @@
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Estudos-WindosForms\Estudos-WindosForms\bin\Debug\Estudos-WindosForms.exe.config
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Estudos-WindosForms\Estudos-WindosForms\bin\Debug\Estudos-WindosForms.exe
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Estudos-WindosForms\Estudos-WindosForms\bin\Debug\Estudos-WindosForms.pdb
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Estudos-WindosForms\Estudos-WindosForms\obj\Debug\Estudos-WindosForms.csprojAssemblyReference.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Estudos-WindosForms\Estudos-WindosForms\obj\Debug\Estudos_WindosForms.Form1.resources
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Estudos-WindosForms\Estudos-WindosForms\obj\Debug\Estudos_WindosForms.Properties.Resources.resources
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Estudos-WindosForms\Estudos-WindosForms\obj\Debug\Estudos-WindosForms.csproj.GenerateResource.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Estudos-WindosForms\Estudos-WindosForms\obj\Debug\Estudos-WindosForms.csproj.CoreCompileInputs.cache
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Estudos-WindosForms\Estudos-WindosForms\obj\Debug\Estudos-WindosForms.exe
+C:\Users\wcogeo\Documents\__Estudos-CSharp\Estudos-WindosForms\Estudos-WindosForms\obj\Debug\Estudos-WindosForms.pdb

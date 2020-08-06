@@ -1,0 +1,7 @@
+﻿//instalar a instenção do SQL Compact
+//instalar o drive de coneção sql Microsoft.server Compact
+
+
+//usar essas duas bibliotecas na classe de Manipulação ou Conexão
+using System.Data;
+using System.Data.SqlServerCe;
